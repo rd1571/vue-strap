@@ -1,0 +1,24 @@
+{
+  "name": "@ram_mart17/vue-strap",
+  "version": "1.0.0",
+  "description": "Enhanced Vue Bootstrap CSS",
+  "main": "dist/r-button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rd1571/vue-strap.git"
+  },
+  "author": "Ram Alcantara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rd1571/vue-strap/issues"
+  },
+  "homepage": "https://github.com/rd1571/vue-strap#readme",
+  "dependencies": {
+    "bulma": "^0.7.5",
+    "sass-loader": "^8.0.0",
+    "vue": "^2.6.10"
+  }
+}
